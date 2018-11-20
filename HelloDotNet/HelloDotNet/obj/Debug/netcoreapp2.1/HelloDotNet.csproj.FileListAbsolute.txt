@@ -1,0 +1,11 @@
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp2.1\HelloDotNet.deps.json
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp2.1\HelloDotNet.runtimeconfig.json
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp2.1\HelloDotNet.runtimeconfig.dev.json
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp2.1\HelloDotNet.dll
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp2.1\HelloDotNet.pdb
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp2.1\HelloDotNet.csprojAssemblyReference.cache
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp2.1\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp2.1\HelloDotNet.AssemblyInfoInputs.cache
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp2.1\HelloDotNet.AssemblyInfo.cs
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp2.1\HelloDotNet.dll
+C:\Users\Allievo 12\Desktop\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp2.1\HelloDotNet.pdb
